@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  font-size: 2rem;
+  background-color:  rgba(255, 172, 202, 1);
+}
+
+#value {
+  font-weight: 800;
+}
+
+.btn {
+  border-radius: 5px;
+  border: none;
+  padding: 10px 10px;
+  margin: 50px 10px;
+}
+
+.btn-increase {
+  background-color: green;
+  color: white;
+}
+
+.btn-decrease {
+  background-color: red;
+  color: white;
+}
+
